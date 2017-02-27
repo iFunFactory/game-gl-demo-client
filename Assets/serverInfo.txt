@@ -1,0 +1,4 @@
+loginServerAddr:13.124.23.90
+loginServerPort:8012
+chatServerAddr:13.124.23.90
+chatServerPort:8052
